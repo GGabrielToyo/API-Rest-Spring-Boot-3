@@ -1,0 +1,41 @@
+[33mcommit db75b53d5fdf8471b8ab1b369e62894924525433[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Gabriel Alves Toyo <ggabrieltoyo@gmail.com>
+Date:   Mon Dec 11 17:11:11 2023 -0300
+
+    Resolvendo problema da classe ConsultaRepository. Adicionando Anotação @Entity na classe Consulta.
+
+[33mcommit 0cea3865c4b89b853275bfee2b71c1df246d5088[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Gabriel Alves Toyo <ggabrieltoyo@gmail.com>
+Date:   Fri Dec 8 14:22:04 2023 -0300
+
+    Atualização das funcionalidades de agendamento de consultas. Erro na interface ConsultasRepository.
+
+[33mcommit 5b5ebcb3275fdbeeb91001350e998b9c4af2af2f[m
+Author: Gabriel Alves Toyo <ggabrieltoyo@gmail.com>
+Date:   Fri Dec 1 15:36:09 2023 -0300
+
+    FInalizando parte de segurança da api com Spring Security.
+
+[33mcommit 14e8881fe03c05a1f521fff1a9f3e12d26ab92ea[m
+Author: Gabriel Alves Toyo <ggabrieltoyo@gmail.com>
+Date:   Fri Nov 24 12:33:33 2023 -0300
+
+    Criação da pasta infra, configurações de segurança + geração de token com JWT. Funcionalidade de cadastrar usuários, login e detalhar usuários no controller de autenticação.
+
+[33mcommit 887dc7b093bb36043ad9c67ee1fb64def5b9cd81[m
+Author: Gabriel Alves Toyo <ggabrieltoyo@gmail.com>
+Date:   Wed Nov 22 16:06:26 2023 -0300
+
+    Implementação de tratamento de erros http, atualização de migrations, finalização do crud de pacientes.
+
+[33mcommit 659f1162b8a581b6e6081d080cc8d718e3e17f3c[m
+Author: Gabriel Alves Toyo <ggabrieltoyo@gmail.com>
+Date:   Sat Nov 4 21:44:49 2023 -0300
+
+    CRUD completo para medicos
+
+[33mcommit beed5812538780255e1b333f0b6997749fca7116[m
+Author: Gabriel Alves Toyo <ggabrieltoyo@gmail.com>
+Date:   Wed Oct 25 17:19:45 2023 -0300
+
+    Primeiro commit. Criação tabela + metodo de cadastro de medicos
