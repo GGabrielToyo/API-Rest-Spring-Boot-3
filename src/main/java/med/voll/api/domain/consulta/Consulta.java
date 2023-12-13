@@ -43,6 +43,7 @@ public class Consulta {
         this.id = id;
         this.medico = medico;
         this.paciente = paciente;
+        this.data = data;
         this.motivoCancelamento = motivo;
     }
 
