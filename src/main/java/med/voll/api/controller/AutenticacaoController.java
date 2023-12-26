@@ -1,9 +1,6 @@
 package med.voll.api.controller;
 
 import jakarta.validation.Valid;
-import med.voll.api.domain.medico.DadosCadastroMedico;
-import med.voll.api.domain.medico.DadosDetalhamentoMedico;
-import med.voll.api.domain.medico.Medico;
 import med.voll.api.domain.usuario.*;
 import med.voll.api.infra.security.DadosTokenJWT;
 import med.voll.api.infra.security.TokenService;

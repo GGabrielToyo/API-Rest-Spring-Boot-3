@@ -39,7 +39,7 @@ public class Consulta {
         this.motivoCancelamento = motivo;
     }
 
-    Consulta(Long id, Medico medico, Paciente paciente, LocalDateTime data, MotivoCancelamento motivo) {
+    public Consulta(Long id, Medico medico, Paciente paciente, LocalDateTime data, MotivoCancelamento motivo) {
         this.id = id;
         this.medico = medico;
         this.paciente = paciente;
